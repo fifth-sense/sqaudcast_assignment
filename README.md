@@ -2,6 +2,7 @@
 A Componet which will add the mentioned functionality while we are writing our message to someone.
 
 # Demo Link
+https://fifth-sense.github.io/sqaudcast_assignment/
 
 # Setup
 clone the repository
@@ -9,7 +10,7 @@ run yarn install
 run yarn dev
 
 # Build
-yarn build
+deployed using gh-pages
 
 # Testing
 To test MentionComponent
