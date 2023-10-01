@@ -8,6 +8,9 @@ clone the repository
 run yarn install
 run yarn dev
 
+# Build
+yarn build
+
 # Testing
 To test MentionComponent
 run yarn test 'yarn test ./src/component/Mention.test.tsx'
